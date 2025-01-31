@@ -40648,7 +40648,7 @@ A.a8Z.prototype={
 $2(a,b){return new A.dC(B.AK,new A.GB(this.a.a.e[b],A.acn(),null),null)},
 $S:202}
 A.a9_.prototype={
-$2(a,b){return A.a2o("N\xfamro de acessos: "+this.a.d.e,B.Kp)},
+$2(a,b){return A.a2o("N\xfamero de acessos: "+this.a.d.e,B.Kp)},
 $S:196}
 A.Ec.prototype={
 V(a){var s=this,r="assets/images/siteLogoAdv.jpg",q=s.c
